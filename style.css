@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #ff0000;
-    --alto-contraste-fundo: #000000;
+    --rosa-claro: #ff98cc;
+    --alto-contraste-fundo: #ffdaed;
     --alto-contraste-texto: #000000;
-    --alto-contraste-link: #00d9ff;
+    --alto-contraste-link: #ff7694;
 }
 
 body {
@@ -74,7 +74,7 @@ section {
 }
 
 
-#tim-maia {
+#melanie-martinez {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -85,7 +85,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tim-maia .container {
+#melanie-martinez .container {
     display: flex;
     align-items: center;
     justify-content: center;
