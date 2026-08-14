@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --rosa-claro: #ff98cc;
-    --alto-contraste-fundo: #ffdaed;
+    --rosa-claro: #98d6ff;
+    --alto-contraste-fundo: #cfe9ff;
     --alto-contraste-texto: #000000;
-    --alto-contraste-link: #ff7694;
+    --alto-contraste-link: #0b83e6;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ff98cc;
+    background-color: #46aef3;
 }
 
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #ff8953;
+    color: #53c0ff;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #15dbba;
+    background-color: #73c0ff;
 
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #412e2e;
+    background-color: #004e97;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #5c925e;
+    background-color: #5c8192;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #85124b;
+    background-color: #1581c9;
 }
 .menu-acessibilidade{
     position: fixed;
